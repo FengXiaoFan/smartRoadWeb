@@ -1,0 +1,321 @@
+.contentWrap[data-v-6d5d147e] {
+	width: 100%;
+	height: 100%;
+	min-height: 100vh;
+	background: url(../img/bg.41c23d46.jpg) no-repeat;
+	background-size: 100% 100%;
+	color: #fff;
+	display: flex
+}
+
+.content[data-v-6d5d147e] {
+	width: 100%;
+	height: 98%;
+	margin: auto;
+	display: flex;
+	flex-direction: row
+}
+
+.leftContent[data-v-6d5d147e] {
+	width: 24rem;
+	height: 100%
+}
+
+.leftWrap[data-v-6d5d147e] {
+	width: 100%;
+	height: 100%;
+	border-right: 1px solid hsla(0,0%,100%,.36)
+}
+
+.title[data-v-6d5d147e] {
+	text-align: center;
+	padding-top: 2rem
+}
+
+.title img[data-v-6d5d147e] {
+	width: 85%
+}
+
+.tyreBrand[data-v-6d5d147e] {
+	width: 20rem;
+	height: 5rem;
+	margin: .5rem auto;
+	margin-top: 2rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-content: center;
+	align-items: center;
+	font-size: 1.8rem;
+	font-weight: 500;
+	color: #52baff
+}
+
+.tyreDashboard[data-v-6d5d147e] {
+	width: 100%;
+	height: 48rem;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column
+}
+
+.tyreDashboard ._top[data-v-6d5d147e] {
+	height: 33rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	background: url(../img/tiwt.9d8c2852.png) no-repeat 50%;
+	background-size: contain
+}
+
+.tyreDashboard ._bottom[data-v-6d5d147e] {
+	width: 19rem;
+	margin: 0 auto;
+	flex: 1;
+	height: 13rem;
+	background: url(../img/tiwb.e9e7ef32.png) no-repeat 50%;
+	background-size: contain;
+	position: relative;
+	top: .9rem;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	padding: 0 1rem;
+	justify-content: center
+}
+
+.tyreDashboard ._bottom>div[data-v-6d5d147e] {
+	color: #b6e2ff;
+	font-size: 1.4rem;
+	font-weight: 100
+}
+
+.tyreDashboard ._bottom>div[data-v-6d5d147e]:first-child {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	margin-bottom: .8rem;
+	font-size: 1.6rem
+}
+
+.tyreDashboard ._bottom>div:first-child span[data-v-6d5d147e] {
+	display: block
+}
+
+.tyreDashboard ._bottom>div[data-v-6d5d147e]:last-child {
+	display: flex
+}
+
+.tyreDashboard ._bottom>div:last-child img[data-v-6d5d147e] {
+	display: block;
+	width: 1.6rem;
+	height: 1.8rem;
+	margin-right: .5rem;
+	position: relative;
+	top: .2rem
+}
+
+.tyreDashboard ._bottom>div:last-child div[data-v-6d5d147e] {
+	flex: 1;
+	color: #52baff
+}
+
+.tyreInfoWrap[data-v-6d5d147e] {
+	width: 20rem;
+	height: 15rem;
+	position: relative;
+	margin: auto
+}
+
+#tyrePressure[data-v-6d5d147e],#tyreTemperature[data-v-6d5d147e] {
+	position: absolute;
+	top: -.5rem;
+	right: 2rem;
+	width: 16rem;
+	height: 14rem
+}
+
+.circle1 .circleWrap[data-v-6d5d147e] {
+	position: relative;
+	width: 100%;
+	height: 100%
+}
+
+.circlePublic[data-v-6d5d147e] {
+	position: absolute;
+	right: 4.75rem;
+	width: 10.5rem;
+	height: 10.5rem;
+	border: .1rem solid rgba(9,246,255,.15);
+	border-radius: 50%
+}
+
+.circle1[data-v-6d5d147e],.circle2[data-v-6d5d147e] {
+	top: 1.25rem
+}
+
+.circle[data-v-6d5d147e] {
+	position: absolute;
+	top: .32rem;
+	right: .35rem;
+	width: 9.6rem;
+	height: 9.6rem;
+	border: .1rem solid rgba(9,246,255,.15);
+	border-radius: 50%
+}
+
+.rightContent[data-v-6d5d147e] {
+	flex: 1;
+	height: 100%
+}
+
+.tyreInfo[data-v-6d5d147e] {
+	width: 90%;
+	height: 27rem;
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	padding: 6rem 2rem 4rem
+}
+
+.tyreInfo[data-v-6d5d147e]:first-child {
+	background: url(../img/twxx.20bfd475.png) no-repeat;
+	background-size: 100% 100%;
+	margin-top: 2rem
+}
+
+.tyreInfo[data-v-6d5d147e]:nth-child(2) {
+	background: url(../img/tyxx.82e73d21.png) no-repeat;
+	background-size: 100% 100%;
+	margin-top: 4rem
+}
+
+.tyreCharts[data-v-6d5d147e] {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	align-items: center
+}
+
+.tyreTemperatureInfo[data-v-6d5d147e] {
+	height: 100%
+}
+
+.tyreTemperatureInfoMore[data-v-6d5d147e] {
+	height: 100%;
+	position: relative
+}
+
+.innerWrap[data-v-6d5d147e] {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 1.5rem;
+	color: #a9a9a9
+}
+
+.inner[data-v-6d5d147e] {
+	width: 80%;
+	height: 100%;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 6px;
+	cursor: pointer
+}
+
+.selected[data-v-6d5d147e] {
+	color: #fff
+}
+
+body,html {
+	background-color: #fff
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	color: #464c5b;
+	font-size: 14px;
+	line-height: 1.4;
+	font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,微软雅黑,Arial,sans-serif
+}
+
+a,article,aside,body,button,dd,details,div,dl,dt,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,img,input,li,menu,nav,ol,p,section,select,table,tbody,td,textarea,th,tr,ul {
+	margin: 0;
+	padding: 0;
+	border: none;
+	font-weight: 400
+}
+
+div {
+	box-sizing: border-box
+}
+
+a {
+	text-decoration: none;
+	color: #0366d6
+}
+
+li,ul {
+	list-style: none
+}
+
+code,pre {
+	font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace,Microsoft YaHei
+}
+
+code {
+	color: #d03bc8;
+	padding: .1em .4em;
+	margin: 0;
+	background-color: rgba(111,66,193,.07);
+	border-radius: 3px
+}
+
+.el-form-item__content {
+	margin-left: 0!important
+}
+
+.el-input__inner {
+	height: 4.25rem;
+	line-height: 4.25rem;
+	font-size: 1rem;
+	font-weight: 400;
+	color: #a9a9a9
+}
+
+.el-input__inner,.nameInput .el-input__inner,.phoneInput .el-input__inner {
+	padding-left: 6rem
+}
+
+.emailInput .el-input__inner {
+	padding-left: 7rem
+}
+
+.el-textarea__inner {
+	height: 15rem;
+	font-size: 1rem;
+	font-weight: 400;
+	color: #a9a9a9;
+	padding: 2rem;
+	overflow: auto
+}
+
+.el-form-item__error {
+	font-size: .9rem
+}
+
+.el-message-box__content {
+	font-size: 1rem
+}
+
+.el-message-box {
+	width: auto
+}
